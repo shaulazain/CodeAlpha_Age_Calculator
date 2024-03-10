@@ -38,7 +38,7 @@ const resetCalculator = () => {
               </div>
             </div>
              
-            <div className='left'>
+            <div className='left'  style={{ marginTop: '20px' }}>
                 <div className='Container_middle_para'>
                     <h1>Your Age is</h1>
                 </div>
