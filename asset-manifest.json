@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CodeAlpha_Age_Calculator/static/css/main.1b62f11a.css",
-    "main.js": "/CodeAlpha_Age_Calculator/static/js/main.a7c19bfa.js",
+    "main.css": "/CodeAlpha_Age_Calculator/static/css/main.60399bc7.css",
+    "main.js": "/CodeAlpha_Age_Calculator/static/js/main.4b31f2e3.js",
     "index.html": "/CodeAlpha_Age_Calculator/index.html",
-    "main.1b62f11a.css.map": "/CodeAlpha_Age_Calculator/static/css/main.1b62f11a.css.map",
-    "main.a7c19bfa.js.map": "/CodeAlpha_Age_Calculator/static/js/main.a7c19bfa.js.map"
+    "main.60399bc7.css.map": "/CodeAlpha_Age_Calculator/static/css/main.60399bc7.css.map",
+    "main.4b31f2e3.js.map": "/CodeAlpha_Age_Calculator/static/js/main.4b31f2e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b62f11a.css",
-    "static/js/main.a7c19bfa.js"
+    "static/css/main.60399bc7.css",
+    "static/js/main.4b31f2e3.js"
   ]
 }
